@@ -1,0 +1,4 @@
+node_modules/
+app/credenciais.json
+app/logs/logMonitor.log
+mongodb-job/

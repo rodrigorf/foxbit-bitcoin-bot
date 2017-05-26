@@ -1,0 +1,13 @@
+{
+  "BrokerID": 4,
+  "symbol":"BTCBRL",
+  "valorPercentualLucroVenda":15,
+  "valorPercentualLucroCompra":0,
+  "margemTolerancia": 0.01,
+  "monitorRefreshRate": 400,
+  "logFileName": "./logs/logMonitor.log",
+  "valorTransacao": 1580,
+  "percentualStopLoss": 6,
+  "language": "pt-br",
+  "alert": "-1"
+}

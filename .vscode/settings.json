@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "codemetrics.basics.ComplexityLevelExtremeDescription": "Bonito! Que bonito hein!",
+
+  // Code lens message for high complexity level
+  "codemetrics.basics.ComplexityLevelHighDescription": "Que lixo! Cê ta de brincadeira!",
+
+  // Code lens message for normal complexity level
+  "codemetrics.basics.ComplexityLevelNormalDescription": "Eu já vi tudo que eu tinha pra ver aqui! Que decepção!",
+
+  // Code lens message for low complexity level
+  "codemetrics.basics.ComplexityLevelLowDescription": "Tudo bem, toma aqui uns 50 reais!"
+}

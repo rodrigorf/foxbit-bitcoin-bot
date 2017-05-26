@@ -1,0 +1,12 @@
+{
+    "CONNECTION" : "Conectado com sucesso",
+    "USERNAME" : "Usuário",
+    "START" : "Iniciando monitor",
+    "PROFIT_GOAL" : "Valor desejado",
+    "ORDER_ACTION": "DISPARADA",
+    "ORDER_OP_WAIT": "ALERTA: A última ordem está aguardando ser finalizada....",
+    "STOPLOSS_ALERT": "ALERTA: STOPLOSS ATINGIDO!!",
+    "STOPLOSS_MSG": "DISPARADA COM PREJUÍZO",
+    "CURRENT_PRICE": "Valor Atual",
+    "LAST_OP_EXEC": "Última ordem executada"
+}

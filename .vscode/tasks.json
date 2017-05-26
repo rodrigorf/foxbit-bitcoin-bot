@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "tasks": [
+        {
+            "taskName": "Runtests",
+            "command": "eslint",
+            "args": ["./app/${file}"],
+            "isShellCommand": true,
+            "showOutput": "always",
+            "isBuildCommand": true
+        },
+        {
+            "taskName": "Runtests",
+            "command": "qunit",
+            "args": ["${file}"],
+            "isShellCommand": true,
+            "showOutput": "always",
+            "isTestCommand": true
+        }
+    ]
+}

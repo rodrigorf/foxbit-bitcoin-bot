@@ -1,0 +1,12 @@
+{
+    "CONNECTION" : "Successfully connected",
+    "USERNAME" : "User",
+    "START" : "Starting monitor",
+    "PROFIT_GOAL" : "Desired value",
+    "ORDER_ACTION": "FIRED",
+    "ORDER_OP_WAIT": "ALERT: The last order is waiting to be registered....",
+    "STOPLOSS_ALERT": "ALERT: STOPLOSS REACHED!!",
+    "STOPLOSS_MSG": "FIRED WITH LOSS",
+    "CURRENT_PRICE": "Current value",
+    "LAST_OP_EXEC": "Last order registered"
+}

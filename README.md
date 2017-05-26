@@ -1,1 +1,1 @@
-foxbit-bitcoin-bot
+foxbit-bitcoin-trader
